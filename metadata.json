@@ -1,0 +1,6 @@
+{
+  "name": "MedExpert",
+  "description": "A rule-based symptom checker, medical specialist matching system, hospital directory locator, and therapeutic guides designed for healthcare accessibility in Nigeria.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
