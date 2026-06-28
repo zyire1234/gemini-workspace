@@ -11,6 +11,6 @@
     "strict": false,
     "lib": ["ES2020"]
   },
-  "include": ["server.ts"],
+  "include": ["serverold.ts"],
   "exclude": ["node_modules", "src", "vite.config.ts", "dist"]
 }
